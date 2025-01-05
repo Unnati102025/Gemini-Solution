@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ELbgIXhqnk--ygwSG3J9Qw" Reference="2lzcAyM9k0uz_9EnfUMnBA/1vgeyIAOhE-i-aSdqNJ1yQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="java.com/en" DesignTimeRectangle="9, 62, 834, 873" DesignTimeScaleFactor="1.25" FuzzySelectorArgument="&lt;webctrl type='' tag='DIV' class='f22 f22v0 cpad' aaname='                  ' /&gt;" Guid="cfd0f4ec-f275-40a2-a93a-7689fa06ff57" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Java | Oracle' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="fd6ae9c7c566be7dddbcae4b8b351dbc.png" xmlns="">0Xqrg06RnF0iGtREgjbMgZA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Open browser and navigate to search engine",
+  "Type": "Screen",
+  "Id": "zYzNcRzRMUKZMSmJff2TpA",
+  "Reference": "2lzcAyM9k0uz_9EnfUMnBA/zYzNcRzRMUKZMSmJff2TpA",
+  "ParentRef": "2lzcAyM9k0uz_9EnfUMnBA/C2tb3vW7VEOMq6WJMoY8-Q",
+  "Created": "2025-01-05T12:41:42.0637054Z",
+  "Updated": "2025-01-05T12:41:42.0637054Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

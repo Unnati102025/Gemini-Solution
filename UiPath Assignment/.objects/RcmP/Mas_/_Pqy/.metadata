@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Search for Selenium and click on the first re",
+  "Type": "Screen",
+  "Id": "_Pqy53hR5U2tXY7kERbV7w",
+  "Reference": "2lzcAyM9k0uz_9EnfUMnBA/_Pqy53hR5U2tXY7kERbV7w",
+  "ParentRef": "2lzcAyM9k0uz_9EnfUMnBA/Mas_JNJwZUaaFnVvhWBgbA",
+  "Created": "2025-01-05T12:57:49.1942058Z",
+  "Updated": "2025-01-05T12:58:04.5024606Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="xy6IU7M8XEyxZgEfXyNBUg" Reference="2lzcAyM9k0uz_9EnfUMnBA/6JrxLMRLlEqDNilnm3vgMA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.co.in/search" CVScreenId="119a4134-189a-4e68-83ff-10e3a0f7e6cb" CvTextArea="41, 412, 150, 22" CvTextArgument="Java Oracle" CvType="Text" DesignTimeRectangle="44, 403, 147, 39" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H3' type='' class='LC20lb MBeuO DKV0Md' aaname='Java | Oracle' check:innerText='Java | Oracle' /&gt;" Guid="1b7c3357-2143-4fa6-a858-f4c0db503d18" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Java - Google Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="5da9371d4863e0f3b23d7cbe1a6605bf.png" xmlns="">0dDWhINHGpk6sqh40UpJvgw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

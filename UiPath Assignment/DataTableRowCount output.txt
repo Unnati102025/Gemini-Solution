@@ -1,0 +1,3 @@
+01/02/2025 11:57:16 => [Debug] Execution started for file: DataTableRowCount
+01/02/2025 11:57:16 => [Info] UiPath Assignment execution started
+01/02/2025 11:57:16 => [Debug] 6

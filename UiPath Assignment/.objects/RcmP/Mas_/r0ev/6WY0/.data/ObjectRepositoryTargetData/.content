@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="bNjk1pW2r0y9CC1lLnIy5w" Reference="2lzcAyM9k0uz_9EnfUMnBA/6WY03JqNG0Oc_hfAZBnc9w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.co.in/search" CVScreenId="38ff566b-29db-40d4-ad09-e21323cb5711" CvTextArea="41, 420, 106, 22" CvType="AnyWordGroup" DesignTimeRectangle="44, 409, 104, 39" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H3' type='' class='LC20lb MBeuO DKV0Md' /&gt;" Guid="6e90ce90-497b-42b4-8eb4-652f42eb9ac2" ScopeSelectorArgument="&lt;html app='chrome.exe' title='selenium - Google Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="38ff566b-29db-40d4-ad09-e21323cb5711" CvTextArea="91, 388, 172, 17" CvTextArgument="https://www.selenium.dev" CvType="Text" DesignTimeRectangle="93, 386, 170, 23" FuzzySelectorArgument="&lt;webctrl tag='CITE' type='' class='tjvcx GvPZzd cHaqb' aaname='https://www.selenium.dev' check:innerText='https://www.selenium.dev' /&gt;" Guid="6011ee84-7717-4087-a298-7a419a0a9adc" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0f5ec3962c5070834c85afdbd17cdf29.png" xmlns="">0FM5NFMFDVkmNIv_vVsUtsg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

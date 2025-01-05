@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Search for Java and click on the first result",
+  "Type": "Screen",
+  "Id": "00EsYeVn6EK73p5cm8Xs3A",
+  "Reference": "2lzcAyM9k0uz_9EnfUMnBA/00EsYeVn6EK73p5cm8Xs3A",
+  "ParentRef": "2lzcAyM9k0uz_9EnfUMnBA/Mas_JNJwZUaaFnVvhWBgbA",
+  "Created": "2025-01-05T12:56:37.094616Z",
+  "Updated": "2025-01-05T12:56:47.2298138Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

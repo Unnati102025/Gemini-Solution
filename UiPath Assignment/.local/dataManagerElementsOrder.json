@@ -1,0 +1,161 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "PrimaryDataType.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "MyList&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "DataTable.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dataTable&Sequence_1",
+        "RowCount&Sequence_1",
+        "Value&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "DataTableRowCount.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dataTable&Sequence_1",
+        "RowCount&Sequence_1",
+        "Value&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "DictionaryStudentsMarks.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "index&Sequence_1",
+        "StudentMarks&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "String.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "inputString&Sequence_1",
+        "cleanedString&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "StudentsMarks.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "studentMarks&Sequence_1",
+        "studentMarks__Student1_&Sequence_1",
+        "studentMarks__Student2_&Sequence_1",
+        "studentMarks__Student3_&Sequence_1",
+        "studentMarks__Student4_&Sequence_1",
+        "studentMarks__Student5_&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "autoA.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "extractedText&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "AutoB.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "IntAge&Sequence_1",
+        "fullName&Sequence_1",
+        "age&Sequence_1",
+        "FirstName&Sequence_1",
+        "variable1&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Createsequencefile1AsktheusertoinputFullName.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "fullName"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Createsequencefile2AsktheusertoinputAge.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "age"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Age.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Age&Sequence_1",
+        "IntAge&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Activity 2.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Activity_2.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "countryWithHighestSale&Sequence_1",
+        "yearWithHighestSale&Sequence_1",
+        "financialData&Sequence_1",
+        "uniqueCountriesAndSegments&Sequence_1",
+        "highestSale&Sequence_1",
+        "redColor&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Open browser and navigate to search engine ho",
+  "Type": "Screen",
+  "Id": "r0evQ0lKNUS-n0J4GKDrfw",
+  "Reference": "2lzcAyM9k0uz_9EnfUMnBA/r0evQ0lKNUS-n0J4GKDrfw",
+  "ParentRef": "2lzcAyM9k0uz_9EnfUMnBA/Mas_JNJwZUaaFnVvhWBgbA",
+  "Created": "2025-01-05T12:43:40.2239974Z",
+  "Updated": "2025-01-05T12:44:42.6110028Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

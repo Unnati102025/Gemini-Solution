@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Selenium",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "6WY03JqNG0Oc_hfAZBnc9w",
+  "Reference": "2lzcAyM9k0uz_9EnfUMnBA/6WY03JqNG0Oc_hfAZBnc9w",
+  "ParentRef": "2lzcAyM9k0uz_9EnfUMnBA/r0evQ0lKNUS-n0J4GKDrfw",
+  "Created": "2025-01-05T12:58:13.3284402Z",
+  "Updated": "2025-01-05T12:58:56.0995053Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

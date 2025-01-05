@@ -1,0 +1,35 @@
+01/05/2025 18:32:37 => [Debug] Execution started for file: autoA
+01/05/2025 18:32:37 => [Info] UiPath Assignment execution started
+01/05/2025 18:32:37 => [Debug] Audit: Using Web App. Browser: Chrome URL: https://www.google.co.in/
+01/05/2025 18:32:41 => [Debug] Audit: Using Web App. Browser: Chrome URL: https://www.google.com/search?q=java&rlz=1C1CHBF_enIN1025IN1025&oq=Java&gs_lcrp=EgZjaHJvbWUqDAgAEEUYOxixAxiABDIMCAAQRRg7GLEDGIAEMgYIARBFGEAyBwgCEC4YgAQyEAgDEC4YgwEYsQMYgAQYigUyDQgEEC4YgwEYsQMYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgxMDQ2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+01/05/2025 18:32:44 => [Info] Manual update required for some Java 8 users on macOS
+
+
+
+
+
+
+    
+    
+        
+            
+
+
+
+                Get Java for desktop applications
+                
+
+
+                
+                
+                Download Java
+                
+
+                
+                
+                What is Java? 
+                Uninstall help
+01/05/2025 18:32:47 => [Debug] Audit: Using Web App. Browser: Chrome URL: https://www.google.co.in/
+01/05/2025 18:32:51 => [Debug] Audit: Using Web App. Browser: Chrome URL: https://www.google.co.in/search?q=selenium&sca_esv=b81787ff8f5330a5&sxsrf=ADLYWILlH4jA4SFwEr2hkI6zY9pgLm1PGA%3A1736081858640&source=hp&ei=woF6Z4yCJbrW1e8P0Y7j4A0&iflsig=AL9hbdgAAAAAZ3qP0tbB7d7QwtOY5V-Tt797Heh6qmIp&oq=SE&gs_lp=Egdnd3Mtd2l6IgJTRSoCCAAyChAjGIAEGCcYigUyChAAGIAEGEMYigUyChAAGIAEGEMYigUyChAAGIAEGEMYigUyChAAGIAEGEMYigUyChAAGIAEGEMYigUyChAAGIAEGEMYigUyChAAGIAEGEMYigUyChAAGIAEGEMYigUyCBAAGIAEGLEDSMsMULsDWLoFcAF4AJABAJgBlgGgAagCqgEDMC4yuAEByAEA-AEBmAIDoAK3AqgCCsICDRAuGNEDGMcBGCcY6gLCAgcQIxgnGOoCwgIQEC4YxwEYJxjqAhiOBRivAcICExAuGIAEGMcBGCcYigUYjgUYrwGYAwjxBeffgNepSVXdkgcDMS4yoAe2Ew&sclient=gws-wiz
+01/05/2025 18:32:56 => [Info] UiPath Assignment execution ended in: 00:00:18
+01/05/2025 18:32:56 => [Error] System.Activities.Statements.WorkflowTerminatedException: Process completed successfully.

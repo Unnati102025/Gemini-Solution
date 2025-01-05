@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Java Oracle",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "6JrxLMRLlEqDNilnm3vgMA",
+  "Reference": "2lzcAyM9k0uz_9EnfUMnBA/6JrxLMRLlEqDNilnm3vgMA",
+  "ParentRef": "2lzcAyM9k0uz_9EnfUMnBA/00EsYeVn6EK73p5cm8Xs3A",
+  "Created": "2025-01-05T12:56:52.3475701Z",
+  "Updated": "2025-01-05T12:57:04.4928669Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,4 @@
+01/02/2025 22:11:55 => [Debug] Execution started for file: Strings
+01/02/2025 22:11:55 => [Info] Dictionary execution started
+01/02/2025 22:11:55 => [Debug] HelloEveryone
+01/02/2025 22:11:55 => [Info] Dictionary execution ended in: 00:00:00
